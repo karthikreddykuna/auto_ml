@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import scipy.sparse as sp
 from sklearn.base import BaseEstimator, TransformerMixin
-from sklearn.externals import six
+##from sklearn.externals import six
 
 from auto_ml.utils import CustomLabelEncoder
 
